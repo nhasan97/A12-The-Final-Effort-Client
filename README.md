@@ -4,7 +4,7 @@
 
 ## Features
 
-- **User friendly UI/UX :** The UI of the site is very user friendly. Users can easily add jobs,bid for jobs, see bid requests, monitor progress etc.
+- **User friendly UI/UX :** The UI of the site is very user friendly. Users can easily add surveys,vote,update survey etc.
 
 - **Authentication :** Authentication will ensure the safety and security of users' data. With the help of authentication the users will be able to securely explore the site and without being worried knowing his/her data is protected.
 
